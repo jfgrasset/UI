@@ -1,1 +1,1 @@
-Aligning various object on horizontal lines
+Aligning various objects on horizontal lines
